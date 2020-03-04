@@ -1,7 +1,7 @@
 # define an objective function
 
 
-bw = bh = 512
+bw = bh = 1024
 w = h = 1
 
 sw = bw*w
